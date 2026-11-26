@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScanDepenses</string>
+    <string name="slogan">Capturez - Gérez - Économisez</string>
+    <string name="scan_receipt">Scanner un reçu</string>
+    <string name="scanner_title">Scanner un reçu</string>
+    <string name="scanner_instruction">Placez le reçu dans le cadre</string>
+    <string name="desc_back">Retour</string>
+    <string name="desc_flash">Flash</string>
+    <string name="desc_gallery">Galerie / PDF</string>
+    <string name="desc_capture">Bouton de capture</string>
+</resources>
