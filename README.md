@@ -1,6 +1,6 @@
 # ScanDepense
 Mobile application designed to simplify espence management through Artificial Intelligence
-# <REPO_NAME>
+# <https://github.com/Junie-B51/ScanDepense>
 
 Short description of what this project does and why it exists.
 #Table of Contents
