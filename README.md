@@ -14,12 +14,6 @@ Short description of what this project does and why it exists.
 - [Commit Message Guidelines](#commit-message-guidelines)
 - [Code Review Checklist](#code-review-checklist)
 - [Security & Secrets Policy](#security--secrets-policy)
-- [Reference: `.gitignore`](#reference-gitignore)
-- [Reference: `.env.example`](#reference-envexample)
-- [Reporting Issues](#reporting-issues)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Contact](#contact)
-- [License](#license)
   
 ## About
 <One or two paragraphs explaining the project, its purpose, and main features.>
