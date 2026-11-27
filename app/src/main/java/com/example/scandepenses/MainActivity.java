@@ -1,4 +1,4 @@
-package com.example.scandepenses;
+hpackage com.example.scandepenses;
 
 import android.content.Intent;
 import android.os.Bundle;
